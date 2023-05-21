@@ -1,6 +1,5 @@
 package com.example.Order.Microservice.logic;
 
-
 import jakarta.persistence.Embeddable;
 
 @Embeddable
